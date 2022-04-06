@@ -10,7 +10,7 @@
 
 ```python
 def Skills():
-    langs = ["C/C++", "C#", "Java",  "Javascript", "Python", "Assembly", "HTML5", "CSS3"]
+    langs = ["ASP", "C/C++", "C#", "Java",  "Javascript", "Python", "Assembly", "HTML5", "CSS3"]
     db_langs = ["SQL"]
     frameworks = ["Bootstrap", ".NET", "JavaFX", "Tkinter", "WordPress"]
     softwares = ["Visual Studio 2019", "Visual Studio Code", "Netbeans", "Eclipse", "Dev C++", "Code:Blocks", "SQL Server"]
