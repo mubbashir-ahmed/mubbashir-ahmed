@@ -69,8 +69,7 @@
 <hr>
 
 <h2>Motivational Quotes:</h2>
-<div style="display:flex;gap:1rem;">
-<div style="width: 50%">
+<p align="center">
 
 ```csharp
 if (youWant() == true)
@@ -78,9 +77,6 @@ if (youWant() == true)
 else
   youCant();
 ```
-</div>
-
-<div style="width: 50%">
 
 ```python
 if not successful
@@ -88,8 +84,7 @@ if not successful
 else
   print("Be happy now!");
 ```
-</div>
-</div>
+</p>
 
 ```csharp
 try {
